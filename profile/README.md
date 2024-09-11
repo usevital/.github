@@ -10,3 +10,7 @@ Guidelines: https://notessential.blurry.gay/contributing
 ## Contact us
 
 Find us on [this Discord](https://discord.gg/wncdz7e8jy).
+
+## Other stuff
+
+We also have 2 text converters, those being [notessentialsite/translator](https://github.com/notessentialsite/translator) and [ward](https://github.com/notessentialsite/ward) (work-in-progress)
