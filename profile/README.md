@@ -1,4 +1,4 @@
-# NotEssential org
+# Vital Organisation
 
 If you stumbled on this by accident and want to see the website, https://notessential.blurry.gay/
 The gallery of images we use is hosted on https://notessential.github.io/gallery/
