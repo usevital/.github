@@ -1,4 +1,4 @@
-# Vital Organisation
+# Vital Organization
 
 If you stumbled on this by accident and want to use the modpack, you can [download it on Modrinth](https://modrinth.com/modpack/vital) or inspect its source [on GitHub](https://github.com/intergrav/vital).
 
