@@ -28,4 +28,4 @@ To see the full list of other projects, see [this site](https://usevital.github.
 
 Find us on [this Discord](https://discord.gg/wncdz7e8jy).
 
-We're also under a Modrinth org named [Vital](https://modrinth.com/organizations/vital).
+We're also under a Modrinth org named [Vital](https://modrinth.com/organization/vital).
