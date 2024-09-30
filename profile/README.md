@@ -14,7 +14,7 @@ Find us on [this Discord](https://discord.gg/wncdz7e8jy).
 
 We're also under a Modrinth org named [Vital](https://modrinth.com/organizations/vital).
 
-## NotEssential ![NE logo](../public/NotEssential.ico)
+## NotEssential 
 
 NotEssential is a website which links to mods that can substitute Essential's features. Made with Nuxt.
 
